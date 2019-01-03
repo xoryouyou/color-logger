@@ -1,0 +1,13 @@
+{
+  "name": "color-logger",
+  "version": "0.0.1",
+  "description": "Simple color logger based on bunyan",
+  "main": "src/index.js",
+  "author": "xoryouyou",
+  "license": "MIT",
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "bunyan-debug-stream": "^2.0.0",
+    "colors": "^1.3.3"
+  }
+}
